@@ -1,1 +1,1 @@
-# This is a README. You probably know that from the filename.
+My bank of solutions and helper functions for some of the  projecteuler problems that I have solved.
